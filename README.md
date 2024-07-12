@@ -1,5 +1,5 @@
 # Natural ou Fake Natty? 
-# Imagem: Growing ideas com IAs Generativas 🎥
+# Imagem: Growing ideas com IAs Generativas 
 
 ## 📒 Descrição
 Essa imagem é um desenho realista de uma flor crescendo de um livro no chão de um quarto de adolescente em uma tarde de outono em Califórnia, com as janelas abertas.
