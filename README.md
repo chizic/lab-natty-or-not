@@ -2,7 +2,7 @@
 # Imagem: Growing ideas com IAs Generativas 🎥
 
 ## 📒 Descrição
-Essa imagem é um desenho realista de uma flor cescendo de um livro no chão de um quarto de adolescente em uma tarde de outono em Califórnia, com as janelas abertas.
+Essa imagem é um desenho realista de uma flor crescendo de um livro no chão de um quarto de adolescente em uma tarde de outono em Califórnia, com as janelas abertas.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[Copilot](https://copilot.microsoft.com/)** para digitar e ilustrar o prompt.
