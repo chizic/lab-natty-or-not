@@ -8,7 +8,7 @@ Essa imagem é um desenho realista de uma flor cescendo de um livro no chão de 
 - IA Generativa **[Copilot](https://copilot.microsoft.com/)** para digitar e ilustrar o prompt.
 
 ## 🧐 Processo de Criação
-Usei o "Copilot" para escrever e revisar o prompt da imagem. O "Designer" foi essencial para criar um realizar o trabalho, trazendo opções fantástixas para o prompt.
+Usei o "Copilot" para escrever e revisar o prompt da imagem. O "Designer" foi essencial para criar o trabalho, trazendo opções fantásticas para o prompt.
 
 ## 🚀 Resultados
 Imagem que apresenta a idea ilustrada por IA.
