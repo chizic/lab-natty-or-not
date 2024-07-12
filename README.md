@@ -17,4 +17,4 @@ Imagem que apresenta a idea ilustrada por IA.
 
 
 ## 💭 Reflexão
-O desafio de criar algo 'natty' com IA foi uma experiência incrível pois além de ver várias possibilidades, tive a parte imersiva, mostrando que eu tamb[em posso usar ou melhor, desfrutar de Inteligência artificial.
+O desafio de criar algo 'natty' com IA foi uma experiência incrível pois além de ver várias possibilidades, tive a parte imersiva, mostrando que eu também posso usar, ou melhor, desfrutar de Inteligência artificial.
